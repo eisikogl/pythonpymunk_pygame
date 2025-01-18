@@ -1,5 +1,4 @@
 # pythonpymunk_pygame
-learning pymunk
 
 <img width="406" alt="image" src="https://github.com/eisikogl/pythonpymunk_pygame/assets/98874999/0e8ab7a3-af4e-426a-800e-a5badc1c527a">
 
